@@ -1,0 +1,8 @@
+
+
+------------
+lateinit var
+text.toString()
+------------
+
+*  If you choose to make changes to the names of these colors, you should use the 'refractor' tool. *
